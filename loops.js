@@ -19,6 +19,7 @@ function whileLoop(n) {
 var i = 0;
 function incrementVariable() {
         i = i + 1;}
-var incrementvariable = function incrementVariable(){}
 
-function doWhileLoop(array)
+function doWhileLoop(array) {
+  
+}
