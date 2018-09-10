@@ -16,10 +16,10 @@ function whileLoop(n) {
   return 'done'
 }
 
-
+var i = 0;
+var incrementvariable = function incrementVariable
  function doWhileLoop(array) {
    do { 
-    var i = 0;
     function incrementVariable() {
         i = i + 1;
 }
