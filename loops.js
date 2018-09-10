@@ -21,5 +21,8 @@ function incrementVariable() {
         i = i + 1;}
 
 function doWhileLoop(array) {
-  
+  var incrementvariable = function incrementVariable(){}
+  do {
+    array.length > 0 && incrementVariable();
+  } while (i < 5)
 }
