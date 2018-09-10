@@ -24,6 +24,8 @@ function incrementVariable() {
   var incrementvariable = function incrementVariable(){}
   do {
     array.length > 0 && incrementVariable();
-  } while (i < 5)
+  } while (i < 5) {
+      console.log(--i);
+  }
   return array
 }
