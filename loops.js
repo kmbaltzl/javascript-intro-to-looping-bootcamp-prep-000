@@ -25,7 +25,7 @@ function incrementVariable() {
   do {
     array.length > 0 && incrementVariable();
   } while (i < 5) {
-      array.splice()
+      array.splice(0)
   }
   return array
 }
